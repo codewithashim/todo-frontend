@@ -1,8 +1,78 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live Link : https://todoist-by-ashim.netlify.app/
 
-Currently, two official plugins are available:
+Server Link : https://todo-server-seven-snowy.vercel.app/api/v1/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+==========================================
+
+Client Github Link  : https://github.com/codewithashim/todo-frontend.git
+
+Server Github Link : https://github.com/codewithashim/todo-backend.git
+
+==========================================
+
+Login User : codewithashim@gmail.com
+
+Password : 123456
+
+==========================================
+
+Application Setup :
+
+    Client :
+
+```
+git clone https://github.com/codewithashim/todo-frontend.git 
+```
+
+```
+cd todo-frontend
+```
+
+```
+npm install
+```
+
+```
+npm run dev
+```
+
+   Server :
+
+```
+git clone https://github.com/codewithashim/todo-backend.git 
+```
+
+```
+cd todo-backend
+```
+
+```
+yarn install
+```
+
+```
+yarn dev
+```
+
+============================================
+
+![1707304509153](image/README/1707304509153.png)
+
+![1707304549467](image/README/1707304549467.png)
+
+![1707304584605](image/README/1707304584605.png)
+
+![1707304601498](image/README/1707304601498.png)
+
+![1707304623616](image/README/1707304623616.png)
+
+![1707304643397](image/README/1707304643397.png)
+
+
+![1707305564528](image/README/1707305564528.png)
+
+![1707305606507](image/README/1707305606507.png)
+
+![1707305622920](image/README/1707305622920.png)

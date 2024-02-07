@@ -74,7 +74,7 @@ const UpdateTaskModal = ({ taskUpdateOpen, setTaskUpdateOpen, taskData }) => {
   return (
     <section>
       <Modal
-        title="Create Team"
+        title="Update Status"
         centered
         open={taskUpdateOpen}
         onOk={() => setTaskUpdateOpen(false)}
@@ -95,7 +95,7 @@ const UpdateTaskModal = ({ taskUpdateOpen, setTaskUpdateOpen, taskData }) => {
 
           <button className="common-btn" onClick={handelUpdateTask}>
             <span className="text-white">
-              {loading ? "Loading..." : "Create Team"}
+              {loading ? "Loading..." : "Update Status"}
             </span>
           </button>
         </div>
