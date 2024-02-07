@@ -90,7 +90,7 @@ const DashboardLayout = () => {
   };
 
   return (
-    <Layout className="bg-transparent">
+    <Layout >
       <style>{`
         .ant-menu-item-selected {
           background: linear-gradient(135deg, #2b59ff 0%, #bb2bff 100%);
@@ -119,7 +119,7 @@ const DashboardLayout = () => {
             </Menu.Item>
 
             <Menu.Item key="3" icon={<FaCalendarAlt />}>
-              <Link to="/dashboard/task">Task</Link>
+              <Link to="/dashboard/task">Todo</Link>
             </Menu.Item>
 
             <Menu.Item key="4" icon={<FaUserCircle />}>
